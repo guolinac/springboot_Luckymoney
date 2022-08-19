@@ -4,3 +4,4 @@ server:
     context-path: /luckymoney
 
 minMoney: 1
+description: 最少要发一元
