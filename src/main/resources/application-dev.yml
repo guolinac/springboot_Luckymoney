@@ -18,6 +18,8 @@ spring:
 
   jpa:
     hibernate:
-      ddl-auto: create
+      ddl-auto: update
+#     create表示如果表存在，则删除这个表；update表示在原有表上更新
+#     ddl-auto: create
 #   是否在控制台展示sql语句
     show-sql: true
