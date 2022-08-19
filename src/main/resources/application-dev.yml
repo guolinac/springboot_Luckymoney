@@ -8,3 +8,16 @@ limit:
   maxMoney: 9999
   #在配置里面使用配置
   description: 最少要发${limit.minMoney}元，最多要发${limit.maxMoney}元
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/luckymoney?characterEncoding=UTF-8&serverTimezone=Asia/Shanghai
+    username: root
+    password: 'admin'
+
+  jpa:
+    hibernate:
+      ddl-auto: create
+#   是否在控制台展示sql语句
+    show-sql: true
