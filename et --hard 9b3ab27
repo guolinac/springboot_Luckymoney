@@ -1,0 +1,23 @@
+[33m73e4bc4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m HEAD@{0}: reset: moving to HEAD^
+[33m9b3ab27[m HEAD@{1}: commit: 创建LuckmoneyRepository接口继承JpaRepository接口，得到很多方法。设计LuckymoneyController类，实现查询数据库全库的功能
+[33m73e4bc4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m HEAD@{2}: commit: 7th Luckymoney 通过ORM映射建表
+[33m44c2d1b[m HEAD@{3}: commit: 6th 增加JPI和MySQL依赖，在dev.yml中配置数据库
+[33m2bea3e5[m HEAD@{4}: commit: 5th 分离开发和上线环境 两套yml
+[33m430cbe6[m HEAD@{5}: commit: 4th 多个配置载入，配置对应对象的属性
+[33m91b3b47[m HEAD@{6}: rebase (continue) (finish): returning to refs/heads/master
+[33m91b3b47[m HEAD@{7}: rebase (continue) (pick): 3th 配置 发红包说明 description
+[33m2d51a92[m HEAD@{8}: rebase (continue) (pick): 2th 配置红包最小金额 minMonet
+[33m1fd000d[m HEAD@{9}: commit (amend): 1th 初始提交
+[33m84d2611[m HEAD@{10}: rebase: fast-forward
+[33m801b097[m HEAD@{11}: rebase (start): checkout 801b097b88091aa4077212ce055498fad21af7f9
+[33m4b7aec2[m HEAD@{12}: rebase (finish): returning to refs/heads/master
+[33m4b7aec2[m HEAD@{13}: rebase (start): checkout HEAD^
+[33m4b7aec2[m HEAD@{14}: rebase (finish): returning to refs/heads/master
+[33m4b7aec2[m HEAD@{15}: rebase (start): checkout HEAD~2
+[33m4b7aec2[m HEAD@{16}: rebase (finish): returning to refs/heads/master
+[33m4b7aec2[m HEAD@{17}: rebase (start): checkout HEAD~2
+[33m4b7aec2[m HEAD@{18}: commit (amend): 3th 配置 发红包说明 description
+[33m247c816[m HEAD@{19}: commit (amend): 3th 配置 发红包说明 description
+[33m721eddd[m HEAD@{20}: commit: 3th 配置 发红包说明 description
+[33m8a32628[m HEAD@{21}: commit: 2th 配置红包最小金额 minMonet
+[33m84d2611[m HEAD@{22}: commit (initial): first commit
